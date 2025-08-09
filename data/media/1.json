@@ -1,0 +1,19 @@
+{
+  "id": 1,
+  "title": "Military-Grade Security in Oil & Gas: Beyond Compliance",
+  "subtitle": "See how military-grade security is reshaping oil and gas, beyond basic compliance.",
+  "teaser": "See how military-grade security is reshaping oil and gas, beyond basic compliance.",
+  "images": [
+    "data/media/1/military-security.png"
+  ],
+  "body": "<h2>Military-Grade Security in Oil &amp; Gas: Beyond Compliance</h2>\n\n<p>In today’s volatile energy landscape, traditional security compliance is no longer enough. The oil and gas sector faces increasingly sophisticated cyber-physical threats, from remote ransomware attacks to real-time SCADA infiltration. To stay ahead, forward-thinking operators are embracing military-grade security frameworks. These solutions combine AI-driven anomaly detection, zero-trust architecture, and hardened edge devices to deliver a defense posture built for resilience, not just regulation.</p>\n<p>This shift isn’t just technical, it’s strategic. By moving beyond checklists and embracing proactive protection, oil and gas companies can ensure operational uptime, protect national infrastructure, and build trust with investors. From encrypted data pipelines to tamper-proof field hardware, the new security standard is setting a high bar, one forged in military doctrine, but adapted for the modern energy battlefield.</p>",
+  "author": "Marcus Rodriguez",
+  "readTime": "6 min read",
+  "tags": [
+    "Security",
+    "Military-Grade"
+  ],
+  "featured": false,
+  "detailImage": "data/media/1/military-security.png",
+  "cardImage": "data/media/1/military-security.png"
+}
