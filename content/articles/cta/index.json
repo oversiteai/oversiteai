@@ -31,8 +31,7 @@
         "required": true
       }
     },
-    "images": [],
-    "slug": "darkwater-inquiry"
+    "images": []
   },
   {
     "id": 2,
@@ -66,8 +65,7 @@
         "required": true
       }
     },
-    "images": [],
-    "slug": "header-contact"
+    "images": []
   },
   {
     "id": 3,
@@ -101,8 +99,7 @@
         "required": true
       }
     },
-    "images": [],
-    "slug": "hero-talk-to-us"
+    "images": []
   },
   {
     "id": 4,
@@ -136,8 +133,7 @@
         "required": true
       }
     },
-    "images": [],
-    "slug": "operations-demo"
+    "images": []
   },
   {
     "id": 5,
@@ -171,7 +167,6 @@
         "required": true
       }
     },
-    "images": [],
-    "slug": "solutions-inquiry"
+    "images": []
   }
 ]
