@@ -1,30 +1,25 @@
 [
   {
-    "id": 22,
-    "display_id": 1,
+    "id": 25,
+    "display_id": 4,
     "content_type": "services",
-    "status": "published",
-    "version": 8,
-    "published_at": "2026-03-07T21:14:31.179128",
-    "created_at": "2026-03-07T21:06:34.438545",
-    "updated_at": "2026-03-11T03:42:34.152945",
-    "author": "Does this matter?",
-    "body": "Hello World:&nbsp;&nbsp;<img src=\"/content/articles/services/1/istockphoto-1465157700-612x612-1772908787232.jpg\" alt=\"\"><br><div><br></div><header><h2>Shipping a Truck with uShip</h2></header><div><div><div><p>Whether you’ve just purchased a truck or are relocating and need it shipped to your new home, uShip simplifies the truck transport process. We help you compare truck shipping rates from professional transporters while providing expert tips to ensure a smooth shipment. Need assistance? Reach out anytime—we’ll help get your truck delivered hassle-free.</p></div></div></div><div><span>The uShip marketplace connects you with top-rated truck transporters at competitive rates. Simply create a shipment listing with your truck’s make, model, and any special requirements. Transporters will send you quotes, allowing you to compare pricing and service options. You can also communicate directly with providers and review their profiles, ensuring you choose the best transporter for your needs.</span><img src=\"/content/articles/services/1/istockphoto-1465157700-612x612-1772908787232.jpg\" alt=\"\"><br></div>",
-    "cardImage": "/content/articles/services/1/istockphoto-1465157700-612x612-1772908787232.jpg",
-    "detailImage": "/content/articles/services/1/istockphoto-1465157700-612x612-1772908787232.jpg",
-    "featured": true,
+    "status": "staged",
+    "version": 3,
+    "published_at": null,
+    "created_at": "2026-03-19T21:27:26.558519",
+    "updated_at": "2026-03-20T01:08:38.849469",
+    "author": "",
+    "body": "\n\n\n\n\n\n<!--StartFragment-->\n\n<p style=\"margin:0in;font-family:Arial;font-size:12.0pt;color:black\"><span style=\"font-weight:bold\">Operating Cost</span></p>\n\n<p style=\"margin:0in;font-family:Arial;font-size:12.0pt;color:black\">In many\noperating environments, natural gas can provide a lower fuel cost than diesel,\nespecially where on-site gas is available or diesel delivery costs are high.\nOver time, that can make natural gas-capable equipment attractive for\nlong-duration deployments. Diesel equipment may still be more practical for\nshort jobs, remote mobilizations, or sites without reliable gas access, but\nwhen fuel availability and duration favor gas, the operating cost advantage can\nbecome significant.</p>\n\n<p style=\"margin:0in;font-family:Arial;font-size:12.0pt;color:black\"><span style=\"font-weight:bold\">Logistics and Refueling</span></p>\n\n<p style=\"margin:0in;font-family:Arial;font-size:12.0pt;color:black\">Diesel\nequipment is simple to deploy almost anywhere because diesel fuel\ninfrastructure is familiar and widely available. That makes it useful for\nemergency response, highly mobile operations, and locations where no gas source\nexists. Natural gas-capable equipment reduces diesel handling and delivery\nneeds, but it depends on having a usable gas source and the right fuel\nconditioning or connection setup. In other words, diesel is often easier to\ndrop and run anywhere, while natural gas can be more efficient when the site is\nprepared to support it.</p>\n\n<p style=\"margin:0in;font-family:Arial;font-size:12.0pt;color:black\"><span style=\"font-weight:bold\">Runtime and Reliability</span></p>\n\n<p style=\"margin:0in;font-family:Arial;font-size:12.0pt;color:black\">Both\ndiesel and natural gas-capable equipment can be reliable when properly selected\nand maintained. Diesel units are widely known for rugged field performance and\nstrong torque characteristics. Natural gas-capable equipment can also provide\ndependable continuous-duty operation, particularly in fixed or semi-fixed\napplications where fuel supply is stable. The main difference is that diesel\ntends to be more universally deployable, while natural gas performs best where\nthe fuel source is consistent and well managed.</p>\n\n<p style=\"margin:0in;font-family:Arial;font-size:12.0pt;color:black\"><span style=\"font-weight:bold\">Maintenance Profile</span></p>\n\n<p style=\"margin:0in;font-family:Arial;font-size:12.0pt;color:black\">Diesel\nengines are robust, but they often require more attention related to fuel\nquality, filters, soot, emissions systems, and exhaust handling. Natural\ngas-capable engines can offer cleaner combustion, which may reduce some\nfouling-related maintenance concerns. However, they also require proper gas\nquality, fuel regulation, and system tuning. The maintenance question is less\nabout which is universally better and more about which one fits the operating\nconditions, duty cycle, and available support model.</p>\n\n<p style=\"margin:0in;font-family:Arial;font-size:12.0pt;color:black\"><span style=\"font-weight:bold\">Noise, Cleanliness, and Site Conditions</span></p>\n\n<p style=\"margin:0in;font-family:Arial;font-size:12.0pt;color:black\">Natural\ngas-capable equipment is often perceived as cleaner-running and in some cases\ncan support a quieter, more controlled site profile depending on the unit\ndesign. Diesel units remain highly capable, but they often bring more odor,\nexhaust visibility, and fuel handling concerns to the location. For sites where\npresentation, environmental sensitivity, or worker exposure matters, natural\ngas-capable solutions may offer operational advantages beyond simple fuel cost.</p>\n\n<!--EndFragment-->",
+    "cardImage": "",
+    "detailImage": "",
+    "featured": false,
     "images": [
-      "/content/articles/services/1/istockphoto-1465157700-612x612-1772908787232.jpg"
+      "/content/articles/services/4/powerholder-1773968859482.png"
     ],
-    "readTime": "5 minutes",
+    "readTime": "",
     "subtitle": "",
-    "tags": [
-      "bob",
-      "is",
-      "my",
-      "uncle"
-    ],
-    "teaser": "This is a teaser!",
-    "title": "A Services Article"
+    "tags": [],
+    "teaser": "",
+    "title": "OverSite Power "
   }
 ]
